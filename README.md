@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Technical Skills: Python, SQL, Salesforce, Natural Language Processing (NLP), MATLAB, Django 
+#### Technical Skills: Python, SQL, Looker, Salesforce, Natural Language Processing (NLP), MATLAB, Django
 
 ## Education
 University of Michigan
